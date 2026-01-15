@@ -1,0 +1,578 @@
+[
+    {
+        "nome": "Pizza",
+        "preco": "45.0",
+        "sabor": "mussarela",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Hamburguer",
+        "preco": "25.0",
+        "sabor": "carne bovina",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Yakisoba",
+        "preco": "27.90",
+        "sabor": "frango",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Coxinha",
+        "preco": "8.50",
+        "sabor": "frango com catupiry",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Pastel",
+        "preco": "9.00",
+        "sabor": "carne moída",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Açaí",
+        "preco": "15.00",
+        "sabor": "banana e granola",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Esfiha",
+        "preco": "7.00",
+        "sabor": "queijo e presunto",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Hot Dog",
+        "preco": "12.00",
+        "sabor": "salsicha tradicional",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Lasanha",
+        "preco": "30.00",
+        "sabor": "bolonhesa",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Panqueca",
+        "preco": "20.00",
+        "sabor": "frango com requeijão",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Tapioca",
+        "preco": "10.00",
+        "sabor": "coco com leite condensado",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Crepe",
+        "preco": "13.00",
+        "sabor": "chocolate e morango",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Macarrão",
+        "preco": "22.00",
+        "sabor": "alho e óleo",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Nhoque",
+        "preco": "28.00",
+        "sabor": "molho de tomate",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Sushi",
+        "preco": "38.00",
+        "sabor": "salmão",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Temaki",
+        "preco": "32.00",
+        "sabor": "atum",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "preco": "6.50",
+        "sabor": "queijo minas",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Empada",
+        "preco": "8.00",
+        "sabor": "palmito",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Torta",
+        "preco": "20.00",
+        "sabor": "limão",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Brigadeiro",
+        "preco": "3.50",
+        "sabor": "chocolate",
+        "validade": "5 dias refrigerado"
+    },
+    {
+        "nome": "Beijinho",
+        "preco": "3.50",
+        "sabor": "coco",
+        "validade": "5 dias refrigerado"
+    },
+    {
+        "nome": "Pudim",
+        "preco": "12.00",
+        "sabor": "leite condensado",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Mousse",
+        "preco": "10.00",
+        "sabor": "maracujá",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Sorvete",
+        "preco": "14.00",
+        "sabor": "chocolate belga",
+        "validade": "7 dias congelado"
+    },
+    {
+        "nome": "Brownie",
+        "preco": "9.00",
+        "sabor": "chocolate com nozes",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Cupcake",
+        "preco": "7.50",
+        "sabor": "baunilha com cobertura de morango",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Sanduíche Natural",
+        "preco": "13.00",
+        "sabor": "frango com cenoura",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Wrap",
+        "preco": "14.00",
+        "sabor": "atum com cream cheese",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Salada Caesar",
+        "preco": "20.00",
+        "sabor": "frango e parmesão",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Kibe",
+        "preco": "7.00",
+        "sabor": "carne e trigo",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Bolinho de Bacalhau",
+        "preco": "9.00",
+        "sabor": "bacalhau",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Pastel de Feira",
+        "preco": "10.00",
+        "sabor": "pizza",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Pão de Alho",
+        "preco": "5.00",
+        "sabor": "alho e ervas",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Feijoada",
+        "preco": "35.00",
+        "sabor": "tradicional",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Arroz com Frango",
+        "preco": "25.00",
+        "sabor": "caseiro",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Frango Grelhado",
+        "preco": "22.00",
+        "sabor": "peito temperado",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Bife Acebolado",
+        "preco": "27.00",
+        "sabor": "carne bovina",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Strogonoff",
+        "preco": "30.00",
+        "sabor": "frango",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Escondidinho",
+        "preco": "28.00",
+        "sabor": "carne seca",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Panetone",
+        "preco": "20.00",
+        "sabor": "frutas cristalizadas",
+        "validade": "5 dias"
+    },
+    {
+        "nome": "Torta Salgada",
+        "preco": "18.00",
+        "sabor": "frango com milho",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Pizza Calabresa",
+        "preco": "46.00",
+        "sabor": "calabresa com cebola",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Pizza Frango",
+        "preco": "44.00",
+        "sabor": "frango com catupiry",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Pizza Portuguesa",
+        "preco": "48.00",
+        "sabor": "presunto e ovos",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Pizza Vegana",
+        "preco": "47.00",
+        "sabor": "legumes e tofu",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Hamburguer Duplo",
+        "preco": "30.00",
+        "sabor": "duas carnes e queijo cheddar",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Hamburguer Vegano",
+        "preco": "27.00",
+        "sabor": "grão-de-bico",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Hot Roll",
+        "preco": "34.00",
+        "sabor": "salmão e cream cheese",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Ceviche",
+        "preco": "33.00",
+        "sabor": "peixe branco e limão",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Caldo Verde",
+        "preco": "18.00",
+        "sabor": "couve e linguiça",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Canja de Galinha",
+        "preco": "16.00",
+        "sabor": "frango e arroz",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Sopa de Legumes",
+        "preco": "15.00",
+        "sabor": "cenoura e batata",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Pão com Mortadela",
+        "preco": "9.00",
+        "sabor": "mortadela defumada",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Crepioca",
+        "preco": "10.00",
+        "sabor": "queijo branco e orégano",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Panqueca Doce",
+        "preco": "14.00",
+        "sabor": "nutella e morango",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Poke Bowl",
+        "preco": "38.00",
+        "sabor": "salmão e abacate",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Tapioca Salgada",
+        "preco": "11.00",
+        "sabor": "presunto e queijo",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Tapioca Vegana",
+        "preco": "12.00",
+        "sabor": "tofu e espinafre",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Panini",
+        "preco": "16.00",
+        "sabor": "mussarela e tomate seco",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Croissant",
+        "preco": "9.50",
+        "sabor": "presunto e queijo",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Quiche",
+        "preco": "18.00",
+        "sabor": "alho-poró",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Empanada",
+        "preco": "8.00",
+        "sabor": "carne argentina",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Milkshake",
+        "preco": "17.00",
+        "sabor": "chocolate",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Smoothie",
+        "preco": "15.00",
+        "sabor": "morango e banana",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Suco Natural",
+        "preco": "8.00",
+        "sabor": "laranja",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Refrigerante",
+        "preco": "6.00",
+        "sabor": "cola",
+        "validade": "5 dias"
+    },
+    {
+        "nome": "Água de Coco",
+        "preco": "7.00",
+        "sabor": "natural",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Batata Frita",
+        "preco": "14.00",
+        "sabor": "tradicional",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Anéis de Cebola",
+        "preco": "13.00",
+        "sabor": "empanados crocantes",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Salada de Frutas",
+        "preco": "12.00",
+        "sabor": "diversas frutas",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Torta de Frango",
+        "preco": "19.00",
+        "sabor": "frango e requeijão",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Panqueca de Carne",
+        "preco": "21.00",
+        "sabor": "carne moída",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Risoto",
+        "preco": "32.00",
+        "sabor": "cogumelos",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Escondidinho de Frango",
+        "preco": "26.00",
+        "sabor": "frango com batata",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Arroz de Camarão",
+        "preco": "34.00",
+        "sabor": "camarão ao alho",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Camarão Empanado",
+        "preco": "29.00",
+        "sabor": "crocante",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Peixe Grelhado",
+        "preco": "27.00",
+        "sabor": "tilápia temperada",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Filé de Frango",
+        "preco": "23.00",
+        "sabor": "grelhado com ervas",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Espaguete",
+        "preco": "26.00",
+        "sabor": "carbonara",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Mac and Cheese",
+        "preco": "25.00",
+        "sabor": "queijo cheddar",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Churrasco",
+        "preco": "40.00",
+        "sabor": "misto",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Pão Sírio",
+        "preco": "7.50",
+        "sabor": "trigo integral",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Pizza Doce",
+        "preco": "50.00",
+        "sabor": "chocolate e morango",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Esfirra Doce",
+        "preco": "8.00",
+        "sabor": "doce de leite",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Pastel Doce",
+        "preco": "9.50",
+        "sabor": "banana com canela",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Donuts",
+        "preco": "8.00",
+        "sabor": "baunilha com cobertura de chocolate",
+        "validade": "2 dias refrigerado"
+    },
+    {
+        "nome": "Waffle",
+        "preco": "10.00",
+        "sabor": "mel e manteiga",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Creme de Açaí",
+        "preco": "16.00",
+        "sabor": "açaí puro com granola",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Panqueca Americana",
+        "preco": "15.00",
+        "sabor": "maple syrup",
+        "validade": "1 dia refrigerado"
+    },
+    {
+        "nome": "Torta Alemã",
+        "preco": "20.00",
+        "sabor": "chocolate e biscoito",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Cheesecake",
+        "preco": "22.00",
+        "sabor": "frutas vermelhas",
+        "validade": "4 dias refrigerado"
+    },
+    {
+        "nome": "Petit Gateau",
+        "preco": "18.00",
+        "sabor": "chocolate com sorvete",
+        "validade": "consumo imediato"
+    },
+    {
+        "nome": "Brownie Vegano",
+        "preco": "10.00",
+        "sabor": "cacau e aveia",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Canelone",
+        "preco": "28.00",
+        "sabor": "presunto e queijo",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Ravioli",
+        "preco": "29.00",
+        "sabor": "ricota e espinafre",
+        "validade": "3 dias refrigerado"
+    },
+    {
+        "nome": "Sopa de Abóbora",
+        "preco": "15.00",
+        "sabor": "com gengibre",
+        "validade": "2 dias refrigerado"
+    }
+]
