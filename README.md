@@ -34,6 +34,24 @@ O projeto é executado no terminal.
 
 > É necessário ter o **Python** instalado na máquina.
 
+## 📸Imagens do Projeto em execução:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/562ab376-e547-4885-a66d-83d3f5295179" width="300" />
+  <img src="https://github.com/user-attachments/assets/1393327d-0fa6-4f1a-8662-06cd55d1b9f9" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8cd3c54f-35fd-401b-9b11-6343631a92b7" width="300" />
+  <img src="https://github.com/user-attachments/assets/5989a9ce-2ce7-42ed-bce2-8d2f81a9eb08" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39388433-ee5c-48e0-b768-1b807436d92f" width="300" />
+  <img src="https://github.com/user-attachments/assets/921b3426-e3c2-4492-8bbd-4303b2d6893a" width="300" />
+</p>
+
+
 ## 📌 Status do Projeto
 
 🚧 Em desenvolvimento
